@@ -32,7 +32,7 @@ This Laravel snippet has included the auth, users, and roles crud operations.
 ## Common setup
 
 1. Take clone from git by using the below command.
-    1. `git clone https://github.com/webethics/code-snippet-laravel.git`
+    1. `git clone https://github.com/ChahatSharma100/code-snippet-laravel.git`
     2. `cd code-snippet-laravel`
     3. `git branch`
 2. Install docker and docker compose
